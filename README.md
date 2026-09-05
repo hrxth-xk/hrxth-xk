@@ -26,17 +26,3 @@ Engineer and sharpening my skills in backend engineering, system design, and DSA
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-**[CookingHub](https://github.com/hrxth-xk/CookingHub)**
-A cooking-class marketplace with role-based admin/learner flows — ASP.NET Core (JWT auth,
-EF Core) backend and an Angular 16 frontend, deployed to Azure App Service.
-
-**[Switchboard](https://github.com/hrxth-xk/switchboard)**
-A mobile-first job-switch tracker — paste a job posting URL and it extracts the company,
-role, and location, then tracks the application alongside resume versions, DSA practice,
-and side projects. Next.js 14, TypeScript, PostgreSQL/Prisma.
-
-**[Network Intrusion Detection System](https://github.com/hrxth-xk/Network-Intrusion-Detection-System)**
-Machine-learning based network intrusion detection trained on the CICIDS2017 dataset.
