@@ -1,36 +1,42 @@
-# Hi, I'm Hrithik 👋
+<div align="center">
 
-### Software Engineer | Backend / Full-Stack .NET
+# Hey There! 
 
-I build backend and full-stack applications using C#, ASP.NET Core,
-SQL Server, REST APIs and Angular.
+**I'm Hrithik** — Software Engineer, Backend / Full-Stack Developer
 
-Currently focused on backend engineering, system design and building
-scalable software.
+I build web applications and backend systems with a focus on C#, .NET, APIs,
+databases, and scalable application design. Currently working as a Software
+Engineer and sharpening my skills in backend engineering, system design, and DSA.
 
-## 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://builtbyhrithik.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-reddy-4a038717a/)
 
-- C# / .NET / ASP.NET Core
-- REST APIs
-- Entity Framework Core
-- SQL Server
-- Angular / TypeScript
-- Git / GitHub
+<br>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### CookingHub
-Full-stack recipe platform built with ASP.NET Core, Angular and SQL Server.
+**[CookingHub](https://github.com/hrxth-xk/CookingHub)**
+A cooking-class marketplace with role-based admin/learner flows — ASP.NET Core (JWT auth,
+EF Core) backend and an Angular 16 frontend, deployed to Azure App Service.
 
-### Switchboard
-[Your one-line description]
+**[Switchboard](https://github.com/hrxth-xk/switchboard)**
+A mobile-first job-switch tracker — paste a job posting URL and it extracts the company,
+role, and location, then tracks the application alongside resume versions, DSA practice,
+and side projects. Next.js 14, TypeScript, PostgreSQL/Prisma.
 
-### Network Intrusion Detection System
-Machine-learning based network intrusion detection using CICIDS2017.
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- Backend Architecture
+**[Network Intrusion Detection System](https://github.com/hrxth-xk/Network-Intrusion-Detection-System)**
+Machine-learning based network intrusion detection trained on the CICIDS2017 dataset.
